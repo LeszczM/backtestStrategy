@@ -1,0 +1,27 @@
+# --- Core numeric & data frames ---
+numpy
+pandas
+scipy
+pyarrow          # szybkie I/O (Parquet/Feather)
+openpyxl        # zapisy/odczyty Excel opcjonalnie
+
+# --- ML / Statystyka ---
+scikit-learn
+imbalanced-learn
+statsmodels
+xgboost
+lightgbm
+shap
+category-encoders
+
+# --- Wizualizacja ---
+matplotlib
+seaborn
+plotly
+kaleido         # eksport wykresów Plotly do PNG/SVG
+
+# --- Narzędzia pracy ---
+jupyter
+ipykernel
+tqdm
+joblib
